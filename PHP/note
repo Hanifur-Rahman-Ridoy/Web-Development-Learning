@@ -1,0 +1,7 @@
+ 1. PHP variable = weak type and dynamic allocation
+ 2. NAN = Not a Number
+ 3. Variable Information >
+           gettype() | data type jana Jave
+           empty()   | empty ki nah seta jana jave
+           is_null() | null kinah seta jana jave
+           isset()   | data set kora hoisekinah seta jana jave
